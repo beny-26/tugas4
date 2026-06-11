@@ -1,3 +1,4 @@
+//script js
 const inputTugas = document.getElementById("tugas");
 const tombolTambah = document.getElementById("tambah");
 const daftarTugas = document.getElementById("daftarTugas");
